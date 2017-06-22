@@ -42,28 +42,35 @@ CloudOpen。全球顶尖的专业人员汇聚在这里，共同讨论最新行�
 
 ### 新增活动包括：
 Microsoft 举办的 LinuxCon Women in Technology Luncheon Panel
+
 2017 年 6 月 19 日星期一 12:15 - 13:15
 
 ### 华为举办的微服务研讨会
+
 2017 年 6 月 19 日星期一 13:30 - 17:30
 
 ### Microsoft 举办的 LinuxCon Microsoft OSS Hands-on Lab Night School
+
 2017 年 6 月 19 日星期一 18:30 - 20:30
 
 ### 华为举办的 LiteOS 研讨会
+
 2017 年 6 月 20 日星期二 9:30 - 17:00
 
 ### Caicloud 举办的 Kubernetes Bootcamp 101
+
 2017 年 6 月 20 日星期二 10:30 - 12:30
 
 ### 华为举办的 ContainerOS 研讨会
+
 2017 年 6 月 20 日星期二 13:30 - 17:30
 
 
 ## 2017-06-19 日程
-07:30-09:00
+07:30-09:00
 签到 欧式早餐
-09:00-10:30
+
+09:00-10:30
 主题演讲
    ▫ Linux基金会执行董事 Jim Zemlin
    ▫ 华为产品与解决方案首席技术官李三琦
@@ -71,9 +78,9 @@ Microsoft 举办的 LinuxCon Women in Technology Luncheon Panel
    ▫ 微软亚太研究院院长 沈向洋 Samuel Shen
    ▫ 华为开放软件与系统首席架构师 裴新兴
 
-10:30-11:00
+10:30-11:00
 茶歇及赞助商展示
-11:00-11:40
+11:00-11:40
 Hyperledger最新情况：当前的进展——Brian Behlendorf
 阿里云GPU虚拟化：安全性和可扩展性——Lawrence Liu
 GPU在英特尔处理器图形容器的加速——英特尔OTC王振宇
